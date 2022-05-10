@@ -1,4 +1,4 @@
-- 👋 Hi, I’m '''diff +Thihnezzy '''
+- 👋 Hi, I’m ```diff +Thihnezzy ```
 - 👀 I’m interested in Web Development and Cybersecurity
 - 🌱 I’m currently learning Cybersecurity at INSA Centre Val de Loire in France
 
