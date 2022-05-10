@@ -1,5 +1,6 @@
  ```diff 
- - 👋 Hi, I’m + Thihnezzy 
+ 👋 Hi, I’m 
+ + Thihnezzy 
  ```
 - 👀 I’m interested in Web Development and Cybersecurity
 - 🌱 I’m currently learning Cybersecurity at INSA Centre Val de Loire in France
